@@ -1,6 +1,6 @@
 # 코딩 스터디 모임
 
-## 3/6(금) 9일차
+## 3/6(금) - 9일차
 
 > 오전 (프로그래머스)
 
@@ -18,7 +18,7 @@
 5. 추억의 2048 게임 &nbsp;&nbsp; [6109](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWbrg9uabZsDFAWQ&categoryId=AWbrg9uabZsDFAWQ&categoryType=CODE)
 6. 사랑의 카운슬러 &nbsp;&nbsp; [7227](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWlQUD2qtysDFAVS&categoryId=AWlQUD2qtysDFAVS&categoryType=CODE)
 
-## 3/5(목) 8일차
+## 3/5(목) - 8일차
 
 > 오전 (프로그래머스)
 
@@ -37,7 +37,7 @@
 3. [돌 그룹](baekjoon/12886/) &nbsp;&nbsp; (https://www.acmicpc.net/problem/12886)
 
 
-## 3/4(수) 7일차
+## 3/4(수) - 7일차
 
 > 오전 (백준)
 
@@ -52,7 +52,7 @@
 3. 4연산 &nbsp;&nbsp; (https://www.acmicpc.net/problem/14395)
 
 
-## 3/3 (화) 6일차
+## 3/3 (화) - 6일차
 
 > 오전 (백준)
 
@@ -69,7 +69,7 @@
 3. 낚시왕 &nbsp;&nbsp; (https://www.acmicpc.net/problem/17143)
 
 
-## 3/2 (월) 5일차
+## 3/2 (월) - 5일차
 
 > 오전 (프로그래머스)
 
@@ -84,7 +84,7 @@
 2. 배열 돌리기 &nbsp;&nbsp; (https://www.acmicpc.net/problem/16926)
 3. 뱀과 사다리 게임 &nbsp;&nbsp; (https://www.acmicpc.net/problem/16928)
 
-## 2/28 (금) 4일차
+## 2/28 (금) - 4일차
 
 > 오전 (백준)
 
@@ -101,7 +101,7 @@
 3. 큐빙 &nbsp;&nbsp; (https://www.acmicpc.net/problem/5373)
 
 
-## 2/27 (목) 3일차
+## 2/27 (목) - 3일차
 
 > 오전 (백준)
 
@@ -118,7 +118,7 @@
 8. 입국심사 &nbsp;&nbsp; (https://programmers.co.kr/learn/courses/30/lessons/43238)
 
 
-## 2/26 (수) 2일차
+## 2/26 (수) - 2일차
 
 > 오전 (백준)
 
@@ -135,7 +135,7 @@
 3. 나는야 포켓몬 마스터 이다솜 &nbsp;&nbsp; (https://www.acmicpc.net/problem/1620)
 4. 퇴사 &nbsp;&nbsp; (https://www.acmicpc.net/problem/14501)
 
-## 2/25 (화) 1일차
+## 2/25 (화) - 1일차
 
 > 오전 (백준)
 
